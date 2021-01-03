@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>何展博</title>
+    <link>https://Bob-ho-z.github.io/ch/</link>
+    <description>Recent content on 何展博</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jan 2021 18:05:02 +0800</lastBuildDate><atom:link href="https://Bob-ho-z.github.io/ch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> </title>
+      <link>https://Bob-ho-z.github.io/ch/resume/</link>
+      <pubDate>Sun, 03 Jan 2021 10:25:47 +0800</pubDate>
+      
+      <guid>https://Bob-ho-z.github.io/ch/resume/</guid>
+      <description>簡歷只提供英文版，如需看簡歷請到英文版</description>
+    </item>
+    
+    <item>
+      <title>VivaBlee</title>
+      <link>https://Bob-ho-z.github.io/ch/project/vivablee/</link>
+      <pubDate>Sat, 02 Jan 2021 18:05:02 +0800</pubDate>
+      
+      <guid>https://Bob-ho-z.github.io/ch/project/vivablee/</guid>
+      <description>在課外的時間和其他朋友合作做了一個叫VivaBleeRaw的project，我做了一部分的VivaBlee網站的UI,也用react native做過VivaBleeRaw Android UI，不過由於設計的想法經過多次變動，app和網頁界面也經過多次改變，我設計的頁面也有一定的修改。
+https://github.com/Bob-ho-z/Vivablee_
+下面是我做的VivaBleeRaw 網站界面
+VivaBleeRaw Android的界面</description>
+    </item>
+    
+    <item>
+      <title>未來計劃</title>
+      <link>https://Bob-ho-z.github.io/ch/plan-ch/</link>
+      <pubDate>Sat, 02 Jan 2021 00:32:28 +0800</pubDate>
+      
+      <guid>https://Bob-ho-z.github.io/ch/plan-ch/</guid>
+      <description>我認爲自己programming能力還有很大的提升空間，因此希望在大學期間可以做更多的coding練習，提升自己的能力。另外我也缺少實戰經驗，希望能在大學期間找到實習一來瞭解市場上的情況例如目前市場上對IT人才的具體要求，二來可以在IT業界内探索，弄清楚自己適合哪一個職位。 另外在大學期間，希望可以繼續參加更多的活動，既可以拓展自己的眼界，認識更多的人，同時也可鍛煉自己各種能力例如英語口語能力等。</description>
+    </item>
+    
+    <item>
+      <title>關於我</title>
+      <link>https://Bob-ho-z.github.io/ch/about-ch/</link>
+      <pubDate>Fri, 01 Jan 2021 19:23:16 +0800</pubDate>
+      
+      <guid>https://Bob-ho-z.github.io/ch/about-ch/</guid>
+      <description>你好，我是何展博，目前在香港中文大學讀計算機科學三年級。
+個人性格 喜歡學習新知識，喜歡探索不同的事物，學習新知識可以給我帶來成功感。另外我也比較傾向於做事前給自己訂立一個目標以及制定一個的計劃，制定目標使我有確定感，知道自己在做什麽，制定計劃可以令我知道需要提前做好什麽準備，在做事途中可能會遇到什麽困難以及什麽解決方法可能有用，最後知道有什麽預期的結果。制定計劃也可以使得我在做事的途中知道自己的進度，令我更加有動力做事。
+大學經歷 目前我讀到大學三年級，身爲計算機科學的學生，自然讀了不少有關計算機科學的課程，也做了一些Project。 在year 1 的時候完成了一個Card Game的project，這個card game的玩法有點像連連看，將一副牌52張隨機派在桌面上，玩家和電腦一人一回合，每回合選兩張牌，如果這兩張牌數值相同，則這個回合的玩家得分，而且這兩張牌就攤開了，不可以再選這兩張牌。所有牌被揭開，游戲結束。 在year 3 的時候我做了一個operating system的project。這個project主要是考我們對OS 認知是否熟悉。這個project給了我們一個HD 文件，要求我們編寫一個程序讀取指定文件的inode number，另外還要求我們在這個文件中讀取指定的段落。 在課外的時間和其他朋友合作做了一個叫VivaBleeRaw的project，我做了一部分的VivaBlee網站的UI,也用react native做過VivaBleeRaw Android UI，不過由於設計的想法經過多次變動，app和網頁界面也經過多次改變，我設計的頁面也有一定的修改。我在year 3 sem a的時候和其他朋友參加過Jane Street&amp;rsquo;s Virtual ETC,在這個比賽中我們需要設計程式在一個虛擬股票證券多次購買金融產品獲取利潤。 另外在課外的課程中我學習了其他IT知識例如HTML+CSS，Python等
+在除了IT以外其他方面我也有所涉獵。我在year 1 和year 2都參加了中大崇基划艇書院代表隊，雖然在year 1時并無取得名次，在year 2時更是取消比賽，但在划艇代表隊中我認識了不少朋友，在划艇隊的日子不但訓練了我的體能還訓練了我的團隊合作的能力以及人際關係處理能力，更使得我的人脈有所發展。在year 1 summer的時候，我參加了YMCA的四川之旅，在這次旅程中學習到了不少四川護水的歷史和知識。year 2 winter sem break我和划艇隊的成員去了台灣騎自行車環島，使得我處理人際關係問題技巧更爲熟練。
+我在year 2尾到year 3期間也擔任了中大航空青年團幹事會會長，這使得我開始接觸如何統籌活動例如如何做好財政報告給學院報銷以及如何預計活動花費。</description>
+    </item>
+    
+    <item>
+      <title>模擬操作系統</title>
+      <link>https://Bob-ho-z.github.io/ch/project/operating_system_project/</link>
+      <pubDate>Wed, 23 Dec 2020 17:40:47 +0800</pubDate>
+      
+      <guid>https://Bob-ho-z.github.io/ch/project/operating_system_project/</guid>
+      <description>我在year 3 sem a 時讀了Operating System這個course，這個project要求我們在一個虛擬HD文件中找到指定文件的inode number以及讀取指定的段落。
+https://github.com/Bob-ho-z/CSCI-3150-Project
+讀取inode number
+讀取指定内容</description>
+    </item>
+    
+    <item>
+      <title>卡牌游戲</title>
+      <link>https://Bob-ho-z.github.io/ch/project/card_game/</link>
+      <pubDate>Wed, 15 May 2019 17:08:48 +0800</pubDate>
+      
+      <guid>https://Bob-ho-z.github.io/ch/project/card_game/</guid>
+      <description>這是我在year 1一個programming course上完成的project。其實就是一個卡牌游戲，兩個玩家對戰，一副牌52張放在桌面上每一輪一個玩家翻兩張牌，如果這兩張牌數值相同，則這個玩家得分，這兩張牌攤開不可以再選擇這兩張牌，直到所有牌被翻開爲止。 https://github.com/Bob-ho-z/ENGG-1110
+這是這個Card Game的目錄，有兩種模式，一個是人機對戰，另一個是機器與機器對戰。
+這是人機對戰模式
+這是電腦對打模式</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://Bob-ho-z.github.io/ch/resume/</loc>
+    <lastmod>2021-01-03T10:25:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Bob-ho-z.github.io/ch/project/</loc>
+    <lastmod>2021-01-02T18:05:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Bob-ho-z.github.io/ch/project/vivablee/</loc>
+    <lastmod>2021-01-02T18:05:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Bob-ho-z.github.io/ch/</loc>
+    <lastmod>2021-01-02T18:05:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Bob-ho-z.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://Bob-ho-z.github.io/ch/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://Bob-ho-z.github.io/ch/plan-ch/</loc>
+    <lastmod>2021-01-02T00:32:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Bob-ho-z.github.io/ch/about-ch/</loc>
+    <lastmod>2021-01-01T19:23:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Bob-ho-z.github.io/ch/project/operating_system_project/</loc>
+    <lastmod>2020-12-23T17:40:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Bob-ho-z.github.io/ch/project/card_game/</loc>
+    <lastmod>2019-05-15T17:08:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Bob-ho-z.github.io/ch/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Bob-ho-z.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://Bob-ho-z.github.io/ch/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://Bob-ho-z.github.io/ch/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Bob-ho-z.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://Bob-ho-z.github.io/ch/tags/"
+                />
+  </url>
+  
+</urlset>

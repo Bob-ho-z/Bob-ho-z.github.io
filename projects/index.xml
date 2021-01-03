@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on He Zhan Bo    Bob </title>
+    <link>https://Bob-ho-z.github.io/projects/</link>
+    <description>Recent content in Projects on He Zhan Bo    Bob </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jan 2021 18:05:02 +0800</lastBuildDate><atom:link href="https://Bob-ho-z.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VivaBlee</title>
+      <link>https://Bob-ho-z.github.io/projects/vivablee/</link>
+      <pubDate>Sat, 02 Jan 2021 18:05:02 +0800</pubDate>
+      
+      <guid>https://Bob-ho-z.github.io/projects/vivablee/</guid>
+      <description>I did a project called VivaBleeRaw in cooperation with other friends outside of class. I did part of the UI of the VivaBlee website, and I also used react native to do the VivaBleeRaw Android UI. However, due to the change of designed ideas, the app and web interface have been changed many times.The pages I designed have also been modified. https://github.com/Bob-ho-z/Vivablee_
+VivaBleeRaw website user interface.
+VivaBleeRaw Android user interface. </description>
+    </item>
+    
+    <item>
+      <title>Operating System Project</title>
+      <link>https://Bob-ho-z.github.io/projects/operating_system_project/</link>
+      <pubDate>Wed, 23 Dec 2020 17:40:47 +0800</pubDate>
+      
+      <guid>https://Bob-ho-z.github.io/projects/operating_system_project/</guid>
+      <description>I took the course of Operating System in year 3 sem a. This project requires us to find the inode number of the specified file in a virtual HD file and read the specified content. https://github.com/Bob-ho-z/CSCI-3150-Project
+read inode number. read specified content. </description>
+    </item>
+    
+    <item>
+      <title>Card Game</title>
+      <link>https://Bob-ho-z.github.io/projects/card_game/</link>
+      <pubDate>Wed, 15 May 2019 17:08:48 +0800</pubDate>
+      
+      <guid>https://Bob-ho-z.github.io/projects/card_game/</guid>
+      <description>This is a project I completed on a programming course in year 1. In fact, it is a card game where two players play against each other. A deck of 52 cards is placed on the table. Each round one player turns over two cards. If the two cards have the same value, the player scores. The two cards become uncover. You can choose these two cards again until all the cards are turned over.</description>
+    </item>
+    
+  </channel>
+</rss>

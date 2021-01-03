@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on 何展博</title>
+    <link>https://Bob-ho-z.github.io/ch/project/</link>
+    <description>Recent content in Projects on 何展博</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jan 2021 18:05:02 +0800</lastBuildDate><atom:link href="https://Bob-ho-z.github.io/ch/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VivaBlee</title>
+      <link>https://Bob-ho-z.github.io/ch/project/vivablee/</link>
+      <pubDate>Sat, 02 Jan 2021 18:05:02 +0800</pubDate>
+      
+      <guid>https://Bob-ho-z.github.io/ch/project/vivablee/</guid>
+      <description>在課外的時間和其他朋友合作做了一個叫VivaBleeRaw的project，我做了一部分的VivaBlee網站的UI,也用react native做過VivaBleeRaw Android UI，不過由於設計的想法經過多次變動，app和網頁界面也經過多次改變，我設計的頁面也有一定的修改。
+https://github.com/Bob-ho-z/Vivablee_
+下面是我做的VivaBleeRaw 網站界面
+VivaBleeRaw Android的界面</description>
+    </item>
+    
+    <item>
+      <title>模擬操作系統</title>
+      <link>https://Bob-ho-z.github.io/ch/project/operating_system_project/</link>
+      <pubDate>Wed, 23 Dec 2020 17:40:47 +0800</pubDate>
+      
+      <guid>https://Bob-ho-z.github.io/ch/project/operating_system_project/</guid>
+      <description>我在year 3 sem a 時讀了Operating System這個course，這個project要求我們在一個虛擬HD文件中找到指定文件的inode number以及讀取指定的段落。
+https://github.com/Bob-ho-z/CSCI-3150-Project
+讀取inode number
+讀取指定内容</description>
+    </item>
+    
+    <item>
+      <title>卡牌游戲</title>
+      <link>https://Bob-ho-z.github.io/ch/project/card_game/</link>
+      <pubDate>Wed, 15 May 2019 17:08:48 +0800</pubDate>
+      
+      <guid>https://Bob-ho-z.github.io/ch/project/card_game/</guid>
+      <description>這是我在year 1一個programming course上完成的project。其實就是一個卡牌游戲，兩個玩家對戰，一副牌52張放在桌面上每一輪一個玩家翻兩張牌，如果這兩張牌數值相同，則這個玩家得分，這兩張牌攤開不可以再選擇這兩張牌，直到所有牌被翻開爲止。 https://github.com/Bob-ho-z/ENGG-1110
+這是這個Card Game的目錄，有兩種模式，一個是人機對戰，另一個是機器與機器對戰。
+這是人機對戰模式
+這是電腦對打模式</description>
+    </item>
+    
+  </channel>
+</rss>
